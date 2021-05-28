@@ -1,0 +1,37 @@
+body{
+	background-color: blueviolet;
+}
+
+
+
+
+#jumbo{
+	width: 100%;
+}
+
+
+
+#myform{
+	margin-top: 250px;
+}
+
+
+#increment{
+	 font-size: 30px;
+	  width: 200px;
+}
+
+#number{
+	 font-size: 30px;
+	  width: 300px;
+}
+#decrement{
+	 font-size: 30px;
+	  width: 200px;
+}
+
+
+#message{
+	color: white;
+	font-size: 70px;
+}
